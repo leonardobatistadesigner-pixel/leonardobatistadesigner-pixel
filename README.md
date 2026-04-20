@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu o Leo! 👋🏾
+Seja Bem vindo! 
 
-<!--
-**leonardobatistadesigner-pixel/leonardobatistadesigner-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fique a vontade para conhece um pouco do meu trabalho! 
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalho com Desing Gráfico - Comunicação visual e Estampas de Camisetas;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando programação Front-End para expandir a área de atuação;
+
+💻Focando, a princípio, na criação de projetos no estilo Landing Page e similares.
+
+
+📌Campo Largo- Pr
+
+💬 leonardo.batista.designer@gmail.com
+
+-- Siga as redes sociais--
